@@ -1,2 +1,2 @@
-# goit-markup-hm-02
-Home work HTML+CSS
+# goit-markup-hm-03
+Home work HTML+CSS (flex box)
